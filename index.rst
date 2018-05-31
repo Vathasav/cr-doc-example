@@ -11,4 +11,3 @@ Welcome to My CodeRefiney Project's documentation!
    :caption: Contents:
 
    feature-a
-   notebook_introduction.ipynb
