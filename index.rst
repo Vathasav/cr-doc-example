@@ -10,4 +10,4 @@ Welcome to My CodeRefiney Project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   feature-a
+   feature-b
